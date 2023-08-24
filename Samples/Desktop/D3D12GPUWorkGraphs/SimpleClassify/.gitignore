@@ -1,0 +1,5 @@
+x64/Debug/
+x64/Release/
+g_ClassifyAndShade.hlsl
+g_MaterialIDs.h
+g_MaterialIDs.cpp
