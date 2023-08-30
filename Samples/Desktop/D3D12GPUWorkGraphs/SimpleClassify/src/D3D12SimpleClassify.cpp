@@ -7,7 +7,7 @@
 #include "g_MaterialIDs.h"
 
 extern "C" { __declspec(dllexport) extern const uint32_t D3D12SDKVersion = 711; }
-extern "C" { __declspec(dllexport) extern const char*    D3D12SDKPath = u8".\\"; }
+extern "C" { __declspec(dllexport) extern const char*    D3D12SDKPath = u8".\\D3D12\\"; }
 
 D3D12SimpleClassify::D3D12SimpleClassify(
     uint32_t     width,
